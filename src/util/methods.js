@@ -1,4 +1,4 @@
-import foodItem from "../../../server/modals/foodItem";
+
 
 export async function resizeImage(imgSrc, maxWidth, maxHeight) {
     return new Promise((resolve, reject) => {
