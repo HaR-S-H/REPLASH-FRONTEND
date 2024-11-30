@@ -1,5 +1,3 @@
-
-
 export async function resizeImage(imgSrc, maxWidth, maxHeight) {
     return new Promise((resolve, reject) => {
         // Create an Image object
